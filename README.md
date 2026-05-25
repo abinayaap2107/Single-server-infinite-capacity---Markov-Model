@@ -1,6 +1,6 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ```
-Ex.no:1
+Ex.no:4
 Date:
 Name:Abinaya.A.P
 Register No:212225220002
